@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none; border: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+.col-lg-7 span{
+    color: red;
+}
+.col-lg-7 h3{
+    font-weight: 600;
+}
+.buttons{
+    display: flex;
+}
+.buttons input{
+    margin-right: 10px;
+}
